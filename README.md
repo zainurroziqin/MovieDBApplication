@@ -1,2 +1,0 @@
-# MovieDBApplication
-Aplikasi Movie
